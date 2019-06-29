@@ -1,8 +1,9 @@
 Software yang dibutuhkan :
 
-XAMPP
-Web Browser
-Code Editor
+- XAMPP
+- Web Browser
+- Code Editor
+
 Cara menajalankan program :
 
 Download terlebih dahulu file yang ada di github
